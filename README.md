@@ -47,3 +47,5 @@ Re-evaluate premium customer criteria or promotion strategy due to the consisten
 
 #### Conclusion
 This analysis provided valuable insights into customer behavior across geography, gender, tenure, and financial metrics. The findings highlight key areas for strategic focus, especially in terms of customer targeting and engagement. By leveraging these insights, financial institutions can better align their services with customer needs and drive growth through smarter segmentation.
+
+#### Link to project report: [See Project Report] (https://docs.google.com/document/d/1CcF5WDAbeaaT__G5OkgNaKCQ8DtOGi-OYR-DRXDMnlY/edit?usp=sharing)
